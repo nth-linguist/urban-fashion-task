@@ -2,9 +2,36 @@ body {
     background-color: black;
     background-image: url(../images/background.png); 
     background-size: cover;
+    font-family: 'Inter';
+    font-weight: 300;
+    font-size: 16px;
 }
+
+.nav-items h3 {
+    font-style: bold;
+    font-weight: 700;
+    font-size: 16px;
+}
+
+.top-bar {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: auto;
+    position: relative
+}
+
+.logo {
+    border: 10px;
+    border-color: black;
+}
+
+.nav-items {
+    position: absolute;
+    
+}
+
 
 /* width: 100vh;
     height: 100vh; */
     /* background-attachment: fixed; */
-
