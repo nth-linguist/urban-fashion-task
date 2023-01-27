@@ -1,0 +1,10 @@
+body {
+    background-color: black;
+    background-image: url(../images/background.png); 
+    background-size: cover;
+}
+
+/* width: 100vh;
+    height: 100vh; */
+    /* background-attachment: fixed; */
+
